@@ -42,7 +42,7 @@ In simple terms, it’s the **brain** controlling animation logic inside your `.
 
 ## 🎥 Demo
 Here’s a short GIF showing the complete functionality in action:  
-![Demo](asset/demo.gif)
+![Demo](asset/demo-_2_.gif)
 
 ---
 
